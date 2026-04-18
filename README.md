@@ -1,6 +1,3 @@
-
-  <img src="https://share.google/Ljgx2hTZBTAHWlOoN" alt="Hacker illustration" width="300">
-
 <h1 align="center">Hi 👋, I'm Nirmal Ranmuthu</h1>
 <h3 align="center">A passionate developer from Srilanka</h3>
 
